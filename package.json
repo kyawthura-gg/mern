@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN DemoShop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyawthura-gg/mern.git"
+  },
+  "author": "Kyaw Thura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyawthura-gg/mern/issues"
+  },
+  "homepage": "https://github.com/kyawthura-gg/mern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
